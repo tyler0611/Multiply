@@ -39,7 +39,7 @@ struct ContentView: View {
                             imageName = "jessie"
                         }
                         else {
-                            imageName = "buzzy"
+                            imageName = "buzz"
                         }
                     }
                 }
